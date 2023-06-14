@@ -1,0 +1,1 @@
+This repo contains everything i have learnt about blockchain and web3 and been written down
