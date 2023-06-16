@@ -2,7 +2,10 @@
 
 <h2>Introduction</h2>
 Over the years, you might have come across some terms like blockchain, ethereum, bitcoin and many others. in this article you will be learning about the blockchain, what blockchain is, how blockchain works and some other blockchain terminologies.
-  This article is intended for those with little or no knowledge about blockchain technology
+  This article is intended for those with little or no knowledge about blockchain technology 
+
+  <br>
+  <br>
 
  what is blockchain <br>
  Purpose of blockchain <br>
