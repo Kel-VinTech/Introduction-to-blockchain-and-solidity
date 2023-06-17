@@ -4,11 +4,11 @@
 Over the years, you might have come across some terms like blockchain, ethereum, bitcoin and many others. in this article you will be learning about the blockchain, what blockchain is, how blockchain works and some other blockchain terminologies.
   This article is intended for those with little or no knowledge about blockchain technology
 
- --what is blockchain <br>
- --Purpose of blockchain <br>
- --Advantages of Blockchain <br>
- --How blockchain works <br>
- --Smart contract blockchain <br>
+ what is blockchain <br>
+ Purpose of blockchain <br>
+ Advantages of Blockchain <br>
+ How blockchain works <br>
+ Smart contract blockchain <br>
 
 
 --<h3>what is blockchain</h3>
