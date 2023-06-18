@@ -23,10 +23,10 @@ Gathering and processing the above information, A blockchain is define as distri
 --<h3>Purpose of Blockchain</h3>
 Blockchain runs on a decentrazlied system, meaning controls and decision-making is transferred from centralized to distrubuted network. The following are the advantage and purpose of Blockchain
 
-immutability
-Security
-Trust
-Transparency
+immutability <br>
+Security <br>
+Trust <br>
+Transparency <br>
 
 --How blockchain works
 
