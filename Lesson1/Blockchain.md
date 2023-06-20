@@ -11,7 +11,7 @@ Over the years, you might have come across some terms like blockchain, ethereum,
  --Smart contract blockchain
 
 
---what is blockchain
+--<h3>what is blockchain</h3>
 
 Imagine a tree with its main root stuck in the ground, having multiple branches and leaves. each branch represents a block and each leaf represent a transaction.
 A branch is an extension connected to the a tree, having collection of leaves bundle together [a block is a collection of transactions bundle together]. the block stores a reference to the previous block [a branch of a tree is a subdivision of the root tree, that are linked together in a specific order] forming a chain-like structure.   
@@ -20,7 +20,7 @@ similar to how a tree distributes nutrients to its branches and leaves[blockchai
 
 Gathering and processing the above information, A blockchain is define as distributed ledger consisting of data blocks that is shared among a computer's network node.
 
---Purpose of Blockhain
+--<h3>Purpose of Blockchain</h3>
 Blockchain runs on a decentrazlied system, meaning controls and decision-making is transferred from centralized to distrubuted network. The following are the advantage and purpose of Blockchain
 
 immutability
